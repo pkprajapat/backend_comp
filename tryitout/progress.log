@@ -1,0 +1,19 @@
+[2016-03-08 15:35:07] START
+[2016-03-10 23:02:33] EDIT tryitout/controllers/default.py: 0
+[2016-03-10 23:04:29] EDIT tryitout/views/default/index.html: -43
+[2016-03-10 23:04:36] EDIT tryitout/views/default/index.html: 0
+[2016-03-10 23:07:33] EDIT tryitout/views/default/index.html: 1
+[2016-03-10 23:11:40] EDIT tryitout/views/default/index.html: 1
+[2016-03-10 23:11:43] EDIT tryitout/controllers/default.py: 3
+[2016-03-10 23:11:45] EDIT tryitout/controllers/default.py: 0
+[2016-03-10 23:12:05] EDIT tryitout/views/default/index.html: -1
+[2016-03-10 23:16:08] CREATE default/first.html: 0
+[2016-03-10 23:16:53] CREATE default/second.html: 0
+[2016-03-10 23:17:55] EDIT tryitout/views/default/second.html: -1
+[2016-03-10 23:18:53] EDIT tryitout/views/default/second.html: 0
+[2016-03-10 23:18:55] EDIT tryitout/views/default/first.html: 3
+[2016-03-10 23:20:35] EDIT tryitout/controllers/default.py: 4
+[2016-03-10 23:20:37] EDIT tryitout/controllers/default.py: 0
+[2016-03-12 11:04:20] EDIT tryitout/controllers/default.py: 6
+[2016-03-12 11:04:49] EDIT tryitout/views/default/first.html: -4
+[2016-03-12 11:08:57] EDIT tryitout/views/default/second.html: 0
